@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>计算机导论大作业</title>
+</head>
+<body style="background:#FFF0F5">
+<center>
+<font size=18 face="宋体">计算机导论期末大作业</font>
+</center>
+<br/><br/><br/><center>一.计算机学科相关科目关系示意图</center>
+<div align="center"><img src="计算机.png" /></div>
+<br/><br/><br/><center>二.计算机学科相关资料链接</center>
+<br/><center><a href="https://www.icourse163.org/topics/universitycomputer/">中国大学MOOC-大学计算机系列</a></center>
+<br/><center><a href="https://wenda.so.com/q/1514032722215719/">计算机发展的四个阶段</a></center>
+<br/><center><a href="https://wenku.so.com/d/6ba40bd3ed14ad24fbc96ca08d878a77/">计算机发展史（图片版）</a></center>
+<br/><center><a href="https://wenku.so.com/d/7d9e5d94172bc4536a474f26bbd6f05a/">计算机基础知识整理</a></center>
+<br/><center><a href="https://kuai.so.com/50529b7507887957b7ca1b20bdb066e3/wenda/selectedabstracts/www.zhidaolib.com?src=wenda_abstract/">计算机的应用领域</a></center>
+<br/><center><a href="https://www.docin.com/p-464920250.html/">计算机专业推荐读书</a></center>
+<br/><center><a href="https://www.webopedia.com/insights/generations-of-computers/#:~:text=Each%20one%20of%20the%20five%20generations%20of%20computers,cheaper%2C%20more%20powerful%20and%20more%20efficient%20computing%20devices./">What are the Five Generations of Computers?</a></center>
+<br/><br/><center>中国计算机的发展</center>
+<br/><center><embed src="中国计算机的发展.mp4" autostart="false" height="600" width="800"></embed></center>
+<br/><br/><br/><br/><center>三.我对计算机专业的认识</center>
+<br/><pre><center>
+谈到计算机专业，在上大学之前，我都仅认为它的主要内容就是编程以及它十分热门，做这行业厉害的人会赚很多钱。<br>
+自从来到大学，我查阅相关资料后才发现计算机行业里面门道很多。编程确实在计算机中十分重要，但它并非全部，更<br>
+像实现或验证“科学”的一种工具（科学包括计算机、数学、生物、化学）。它会与很多行业串联在一起，共同发展与<br>
+进步。对于专业应用，计算机在目前的应用很广泛，在人工智能，软件开发，信息管理等等领域都离不开计算机，很多<br>
+大型的工程对计算机的依赖性更大。对于个人的要求，计算机在目前的发展速度极快，未来的各个尖端领域都要依托计<br>
+算机发展，这个领域具有极好的发展前景。但该行业要想真正出头，少不了一番精妙的逻辑思维与丰厚的知识储备。而<br>
+且该行业对个人素质体质韧性也有要求，经常都是吃年轻饭的，到了一定年纪就会心有余而力不足。所以我认为要想在<br>
+计算机行业有所成就，就必须要从当下开始珍惜时间锻炼自身的计算机及其相关方面的能力，并且还要经常锻炼身体，<br>
+确保身体健康。&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</pre>
+</center>
+<br/><br/><br/>
+<center><table border="0px" cellspacing="1px" width="500px" height="500px" cellpadding="0px" align="center" bgcolor="#CCCCFF">
+<caption align="top">四.学业规划</caption>
+<tr><th>规划时段</th><th>目标1</th><th>目标2</th><th>目标3</th></tr>
+<tr><td>大一上</td><td>好好学习，适应大学生活</td><td>和同学们打好关系</td><td>多参加社团类活动，学会使用pr和ps</td></tr>
+<tr><td>大一下</td><td>好好学习，分流上计算机或电气专业</td><td>多参加社团类活动，英语过四级</td><td>考到驾照，自学python与C语言</td></tr>
+<tr><td>大二上</td><td>好好学习，保证成绩，尽量保研</td><td>英语过六级且考高分，参加竞赛</td><td>适当参加社团</td></tr>
+<tr><td>大二下</td><td>好好学习，保证成绩，尽量保研</td><td>英语过六级且考高分，才加竞赛</td><td>适当参加社团</td></tr>
+<tr><td>大三上</td><td>好好学习，保证成绩，尽量保研</td><td>参加竞赛类活动</td><td>参加社会实践活动</td></tr>
+<tr><td>大三下</td><td>好好学习，保证成绩，尽量保研</td><td>参加竞赛类活动</td><td>参加社会实践活动</td></tr>
+<tr><td>大四</td><td>参加社会实践</td><td>在自己擅长方面深造</td><td>做一些喜欢做的事</td></tr>
+</center>
+</body>
+</html>
